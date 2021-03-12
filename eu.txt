@@ -1,4 +1,53 @@
 
 
-trello
-https://trello.com/b/xEsW6wYe/gufi-manh%C3%A3
+#Clinica
+idClinica
+-ramo de atividade:
+-cnpj
+-nome: medical group
+-razao social
+-endereço
+-telefone
+..........................................
+#Area (especialidade)
+idArea
+-pediatria
+-odontologia-
+-gastrenterologia
+..............................................
+#Medico
+-idMedico
+-area de atividade
+-nome
+-crm
+..........................................
+#Paciente
+idPaciente
+-nome
+-idade
+-rg
+-cpf
+-telefone
+- e-mail
+-endereço
+......................
+#Status 
+idStatus 
+-agendado
+-realizado
+-cancelado
+...................
+#Usuario
+idUsuario
+- e-mail
+-senha
+..................
+#Tipo de ususario
+-1
+-2
+-3
+...................
+
+
+
+
